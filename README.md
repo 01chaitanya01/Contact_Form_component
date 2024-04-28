@@ -27,17 +27,17 @@ The project is structured into separate frontend and backend folders:
 
 1. Clone the repository to your local machine.
    ```bash
-   git clone https://github.com/your-username/contact-component.git
+   git clone https://github.com/01chaitanya01/Contact_Form_component.git
    ```
 
 2. Navigate to the project directory.
    ```bash
-   cd contact-component
+   cd Contact_Form_component
    ```
 
 3. Navigate to the frontend folder and install dependencies using npm.
    ```bash
-   cd frontend
+   cd Frontend
    npm install
    ```
 
@@ -49,7 +49,7 @@ The project is structured into separate frontend and backend folders:
 5. Open another terminal window, navigate to the project directory, then navigate to the backend folder and install dependencies using npm.
    ```bash
    cd ..
-   cd backend
+   cd Backend
    npm install
    ```
 
